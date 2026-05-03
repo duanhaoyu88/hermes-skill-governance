@@ -1,5 +1,15 @@
 # Hermes Skill Governance
 
+> ⚠️ **本 repo 已归档**
+> Skill 管控已迁移至 [hermes-team/skills/](https://github.com/duanhaoyu88/hermes-team/tree/main/skills)
+> - 中心清单: `skill-map.yaml`
+> - 索引: `skill-index.yaml`
+> - 部署脚本: `scripts/deploy-skill.sh`, `scripts/deploy-skills.sh`
+>
+> 2026-05-03 · Issue #7
+>
+> 保留本 repo 不删除（保持 git 历史）。
+
 > Skill Governance 集成项目 — skill-factory 模式检测 + skill-governance 审批体系
 > 
 > 📄 知识库: `/mnt/f/04_Obsidian/ai-agent/projects/skill-governance-integration.md`
